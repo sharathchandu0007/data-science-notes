@@ -1,7 +1,6 @@
 # data-science-notes
-notes
 
-Here,documented Data science concepts for machine learning/ data science beginners.
+Data science concepts for machine learning/ data science beginners.
 Please find the order below.
 Numpy:
    1. Numpy Initialization Techniques.
@@ -11,4 +10,4 @@ Numpy:
    5. Numpy Broadcasting.
    6. Numpy Timeit-checkpoints.
    
- other concepts we will upddate it soon.
+ 
